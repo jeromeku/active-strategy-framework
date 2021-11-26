@@ -1,0 +1,15 @@
+DOWNLOAD_DATA: False
+
+address: '0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8'
+
+token_0_address: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48'
+token_1_address: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'
+
+flipside_queries:
+    - https://api.flipsidecrypto.com/api/v2/queries/b8ad3087-803a-478b-9ed3-c4f3c096bc47/data/latest
+    - https://api.flipsidecrypto.com/api/v2/queries/de277680-5ff6-4d58-bfff-29ef114215be/data/latest
+
+price_data_begin: 2020-12-31
+price_data_end: 2021-12-31
+
+file_name: eth_usdc
